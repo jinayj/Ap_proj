@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\200953168\DBS Lab\Lab 2\Login App\Login App\bin\Debug\Login App.exe.config
+C:\Users\student\Desktop\200953168\DBS Lab\Lab 2\Login App\Login App\bin\Debug\Login App.exe
+C:\Users\student\Desktop\200953168\DBS Lab\Lab 2\Login App\Login App\bin\Debug\Login App.pdb
+C:\Users\student\Desktop\200953168\DBS Lab\Lab 2\Login App\Login App\obj\Debug\Login App.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\200953168\DBS Lab\Lab 2\Login App\Login App\obj\Debug\Login_App.Form1.resources
+C:\Users\student\Desktop\200953168\DBS Lab\Lab 2\Login App\Login App\obj\Debug\Login_App.Form2.resources
+C:\Users\student\Desktop\200953168\DBS Lab\Lab 2\Login App\Login App\obj\Debug\Login_App.Properties.Resources.resources
+C:\Users\student\Desktop\200953168\DBS Lab\Lab 2\Login App\Login App\obj\Debug\Login App.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\200953168\DBS Lab\Lab 2\Login App\Login App\obj\Debug\Login App.exe
+C:\Users\student\Desktop\200953168\DBS Lab\Lab 2\Login App\Login App\obj\Debug\Login App.pdb
+C:\Users\student\Desktop\200953168\DBS Lab\Lab 2\Login App\Login App\obj\Debug\Login_App.Form3.resources
